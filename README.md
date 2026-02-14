@@ -14,3 +14,17 @@ A simple browser-based Rock Paper Scissors game built using HTML, CSS, and JavaS
 - JavaScript
 
 ## 📂 Project Structure
+StonePaperScissors/
+│── index.html
+│── style.css
+│── app.js
+│── images/
+
+## 🎯 How to Run
+
+1. Clone the repository
+2. Open index.html in your browser
+3. Start playing!
+
+## 👩‍💻 Author
+Jasmine
